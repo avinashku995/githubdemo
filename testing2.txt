@@ -1,0 +1,3 @@
+pwd 
+date 
+this is my first shell scrpiting 
