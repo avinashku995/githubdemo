@@ -1,0 +1,4 @@
+pwd 
+ls 
+date 
+echo "this is my first shell script"
