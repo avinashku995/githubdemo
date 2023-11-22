@@ -1,7 +1,6 @@
-# githubdemo
-this is a first github learn basics 
-this is a first github learn basics 
-this is a first github learn basics 
-this is a first github learn basics 
-this is a first github learn basics 
+# How to learn Github
+
+# Author Name :- Avinash Kumar 
+# Purpose :- Github Learn 
+
 
